@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\Carribar\CarriBar\Chori-Miau\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\patri\Desktop\Carribar\CarriBar\Chori-Miau\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
